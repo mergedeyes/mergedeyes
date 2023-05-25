@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/mergedeyes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mergedeyes" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mergedeyes&show_icons=true&theme=synthwave&hide_border=true&locale=de&layout=compact" alt="mergedeyes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mergedeyes&show_icons=true&theme=synthwave&hide_border=true&locale=de&layout=compact" alt="mergedeyes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mergedeyes&show_icons=true&theme=synthwave&hide_border=true&locale=de" alt="mergedeyes" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mergedeyes&show_icons=true&theme=synthwave&hide_border=true&locale=de" alt="mergedeyes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mergedeyes&theme=dark" alt="mergedeyes" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mergedeyes&theme=dark" alt="mergedeyes" /></p>

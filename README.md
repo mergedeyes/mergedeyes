@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mergedeyes" alt="mergedeyes" /></a> </p>
 
-- 🔭 I’m currently working on [some bash scripts and my own website.](http://mergedeyes.github.io)
+- 🔭 I’m currently working on [MediathekViewWeb-Downloader.](https://github.com/mergedeyes/mediathekwebviewdownloader)
 
-- 🌱 I’m currently learning **Java, Bash, Python**
+- 🌱 I’m currently learning **Java, Bash, Python and Kotlin**
 
 - 💬 Ask me about **anything :)**
 

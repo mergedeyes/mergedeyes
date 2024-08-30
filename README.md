@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MediathekViewWeb-Downloader.](https://github.com/mergedeyes/mediathekwebviewdownloader)
 
-- 🌱 I’m currently learning **Java, Bash, Python and Kotlin**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **anything :)**
 

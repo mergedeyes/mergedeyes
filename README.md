@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mergedeyes" alt="mergedeyes" /></a> </p>
 
-- 🔭 I’m currently working on [YarnCalculator.](https://github.com/mergedeyes/yarncalculator)
+- 🔭 I’m currently working on [HeightmapGenerator.](https://github.com/mergedeyes/HeightmapGenerator)
 
 - 🌱 I’m currently learning **Python**
 

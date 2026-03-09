@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jan
 
-### A passionate full-stack developer from Germany.
+### A passionate developer from Germany.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MergedEyes&label=Profile views&color=0e75b6&style=flat" alt="MergedEyes" /> </p>
 

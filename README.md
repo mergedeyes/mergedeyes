@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MergedEyes" alt="MergedEyes" /></a> </p>
 
-- 🔭 I'm currently working on **a VOIP-Client to get rid of Discord in my life.**
+- 🔭 I'm currently working on **an alternative to Instagram that is focused on privacy and transparency, also to bring back the old days of socialmedia, when it was about the pictures, not the algorithm..**
 
-- 🌱 I'm currently learning **Rust.**
+- 🌱 I'm currently learning **Rust & Next.js.**
 
 - 👯 I'm looking to collaborate on **open source projects, that help everyone.**
 

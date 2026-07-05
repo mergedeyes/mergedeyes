@@ -2,10 +2,6 @@
 
 ### A passionate developer from Germany.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MergedEyes&label=Profile views&color=0e75b6&style=flat" alt="MergedEyes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MergedEyes" alt="MergedEyes" /></a> </p>
-
 - 🔭 I'm currently working on **an alternative to Instagram that is focused on privacy and transparency, also to bring back the old days of socialmedia, when it was about the pictures, not the algorithm..**
 
 - 🌱 I'm currently learning **Rust & Next.js.**

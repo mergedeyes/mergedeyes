@@ -15,7 +15,7 @@
 - 📫 How to reach me **github@mergedcloud.de**
 
 - My website:
-<a href="https://mergedeyes.github.io/" class="link" target="_blank">**Github.io**</a>
+<a target="_blank" href="https://mergedeyes.github.io/" class="link">**Github.io**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
